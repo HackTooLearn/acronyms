@@ -20,8 +20,7 @@
 - ARP -- Address Resolution Protocol
 - ASLR -- Address Space Layout Randomization 
 - ASP -- Active Server Page
-- ATT&CK -- Adversarial Tactics, Techniques & Common
-- Knowledge 
+- ATT&CK -- Adversarial Tactics, Techniques & Common Knowledge 
 - AUP -- Acceptable Use Policy
 - AV -- Antivirus
 - BASH -- Bourne Again Shell
